@@ -19,7 +19,7 @@
     ! Variables
 
     ! Body of Muse_test
-    print *, 'Hello World'
+    print *, 'Hello World MUSE TEST'
 
     end program Muse_test
 
